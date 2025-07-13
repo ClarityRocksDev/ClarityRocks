@@ -1,0 +1,13 @@
+body {
+  background-color: #142233;
+  color: #FF7900;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+h1 {
+  font-size: 2rem;
+}
